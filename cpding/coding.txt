@@ -1,0 +1,17 @@
+
+<html>
+<head>
+<title>Learning coding language</title>
+</head>
+<body>
+
+<h1> Visit here to learn the basic of coding in Python, C++, html and Java
+<p>This website will help you to learn to code in many different languages for beginners.\n
+Click here for Python.
+<a href="file://C:\Users\33893\OneDrive\桌面\cpding\ide new.html">click this link</a>
+
+<p>Clink here for C++
+
+
+</body>
+</html> 

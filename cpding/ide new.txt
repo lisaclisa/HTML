@@ -1,0 +1,29 @@
+
+<html>
+
+<body>
+
+  <h1> chapter 1 - downloading the ide</h1>
+  <p1>download the python ide, IDLE, from here:<p1>
+  <a href = "https://www.python.org/downloads/">IDLE link</a>
+  <p2>follow the downloading process and create a new file<p2>
+ 
+  <div><img src="Photo.jpg" width = "400" height = "200"/></div>
+  <p3> Type in this code: <p3>
+  <div>print("hello world!") to test if the program is working.</div>
+
+  <h2>chapter 2 - Output and input messages</h2>
+  <p4>output messages by using print("") <p4>
+  <div>for example: print("Hello World!")</div>
+
+  <p5>input messages by using variable = input("")<p5>
+  <div>for exmaple: name = input ("Please enter your name:")</div> 
+  <p6>if you want the use to enter a number, you need to add  int() before the input<p6>
+  <div>for example: age = int(input("Please enter your age:"))</div>
+
+  <h3>Variables</h3>
+  <p7>different types of variable:<p7>
+  <div>int = integer ; str = string ; bool = boolean; real = decimal number </div>
+  
+</body>
+</html>
